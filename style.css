@@ -1,0 +1,12 @@
+nav {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+.container {
+  width: 950px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
